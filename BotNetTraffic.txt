@@ -27,7 +27,11 @@
 #Bladabindi / Jenxcus
 204.95.99.109
 
+#zbot
+131.253.18.11 
 
+#Avalanche 
+216.218.185.162
 
 
 
